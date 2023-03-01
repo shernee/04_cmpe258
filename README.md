@@ -15,6 +15,11 @@ Illustration of the following tasks using fastai
 
 Executing a colab which performs classification on number/digit images. Shows multiple iterations of the model based on code additions and corresponsing performance improvements or lack thereof
 
+##### Assignment1-group
+
+Finetuning gpt3 using prompts to fit the use case of 'promotional emails to customers'
+
+
 ### Assignment 2
 
 ##### 2a
