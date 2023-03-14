@@ -33,3 +33,11 @@ Operations using einsum in tensorflow, pytorch and numpy
 ##### 2c
 
 Tensor operations using pytorch and tensorflow
+
+### Assignment 3
+
+- 3 layer neural network using basic numpy
+- 3 layer neural network using basic pytorch
+- 3 layer neural network using pytorch builtin functionality
+- 3 layer neural network using pytorch lightning
+- 3 layer neural network using tensorflow
