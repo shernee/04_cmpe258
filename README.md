@@ -41,3 +41,13 @@ Tensor operations using pytorch and tensorflow
 - 3 layer neural network using pytorch builtin functionality
 - 3 layer neural network using pytorch lightning
 - 3 layer neural network using tensorflow
+
+### Assignment 4
+
+- Regularizations: l1, l2, dropout, early stopping, montecarlo dropout, batch norm, custom dropout, custom regularization
+- Initializations: carious initializations
+- Callbacks_tensorboard: using callbacks and tensorboard
+- Keras_tuner: using keras tuner
+- Keras_CV: using keras cv data augmentation
+- Data_augmentation_classification: augmentation and classification for image, video, text, timeseries, tabular
+- FastAI_DataAugmentation: using fastAi data augmentation capabilities 
