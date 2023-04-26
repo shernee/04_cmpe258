@@ -51,3 +51,13 @@ Tensor operations using pytorch and tensorflow
 - Keras_CV: using keras cv data augmentation
 - Data_augmentation_classification: augmentation and classification for image, video, text, timeseries, tabular
 - FastAI_DataAugmentation: using fastAi data augmentation capabilities 
+
+### Assignment 4
+
+- BabyAGI: Colab in Assignment5 folder
+- AgentGPT: [Youtube link](https://youtu.be/7-Ctfbqg8Ug)
+- Jarvis HuggingGPT: [Youtube link](https://youtu.be/sHZu0ofAj_A)
+- Visual ChatGPT: [Youtube link](https://youtu.be/H_16vcI2A14)
+- OpenAI with Excel: [Youtube link](https://youtu.be/7vDMAkU49Dc)
+- Semantic kernel: Colab in Assignment5 folder
+- Essay on prompt engineering: [Medium link](https://medium.com/@neelearning93/prompt-engineering-introduction-and-best-practices-2e8c5392986d)
