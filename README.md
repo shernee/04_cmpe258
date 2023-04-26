@@ -52,7 +52,7 @@ Tensor operations using pytorch and tensorflow
 - Data_augmentation_classification: augmentation and classification for image, video, text, timeseries, tabular
 - FastAI_DataAugmentation: using fastAi data augmentation capabilities 
 
-### Assignment 4
+### Assignment 5
 
 - BabyAGI: Colab in Assignment5 folder
 - AgentGPT: [Youtube link](https://youtu.be/7-Ctfbqg8Ug)
