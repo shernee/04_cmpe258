@@ -61,3 +61,11 @@ Tensor operations using pytorch and tensorflow
 - OpenAI with Excel: [Youtube link](https://youtu.be/7vDMAkU49Dc)
 - Semantic kernel: Colab in Assignment5 folder
 - Essay on prompt engineering: [Medium link](https://medium.com/@neelearning93/prompt-engineering-introduction-and-best-practices-2e8c5392986d)
+
+
+### Assignment 6
+
+- Section 1 includes running a model with multiple custom objects such as the kernel initializer, regularizer, loss, optimizer etc
+- Section 2 shows saving and loading a model with custom objects
+- Section 3 shows a custom model
+- Setion 4 includes running a custom training loop
