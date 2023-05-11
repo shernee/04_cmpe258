@@ -69,3 +69,9 @@ Tensor operations using pytorch and tensorflow
 - Section 2 shows saving and loading a model with custom objects
 - Section 3 shows a custom model
 - Setion 4 includes running a custom training loop
+
+### Assignment 7
+
+- Part 1 includes a colab on convolution layers and deep pooling
+- Part 2 shows a simple NN, lenet5, transfer learning, image augumentatio and mlp mixer for a few datasets
+- Part 3 shows classification of xray and ctscan files for pneumonia
